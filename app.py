@@ -3,6 +3,7 @@ import info
 
 st.set_page_config(page_title="Analytics",layout='wide')
 
+
 PAGES = {
         "Info":info,
 }
