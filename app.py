@@ -10,5 +10,5 @@ PAGES = {
 
 st.sidebar.title('Navigator')
 selection = st.sidebar.radio("Go to", list(PAGES.keys()))
-page = PAGES[selection]
-page.app()
+#page = PAGES[selection]
+#page.app()
